@@ -7,8 +7,3 @@ Hello, I'm Adrian aka Factuall. I am programming as a hobby since 9 years old an
 Here you can find my latest projects that survived time of not caring about having my past projects around.
 Have a good day~
 
-- currently working on - Sudoku - C# - Unity 2D
-- currently learning - new keyboard
-- currently working in - Cheil Germany 
-- currently working as - Web Publisher (front end)
-
